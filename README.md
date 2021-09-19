@@ -1,2 +1,2 @@
-# fabric-qa-automation-API
-fabric-qa-automation-API
+# Fabric-QA-automation-APIF
+Fabric-QA-Automation-API
